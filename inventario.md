@@ -1,6 +1,8 @@
 2068227
 2075539
 
+Componenti:
+
 Processori:
 Intel Core
 AMD Ryzen
