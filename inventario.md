@@ -3,6 +3,8 @@
 
 Componenti:
 
+Periferiche:
+
 Processori:
 Intel Core
 AMD Ryzen
